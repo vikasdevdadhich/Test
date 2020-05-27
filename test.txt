@@ -1,9 +1,12 @@
 hello world!
 hiii
-
+ vikas_branch
+ 
+=======
 dfsdfs
-<<<<<<< HEAD
+ HEAD
 vikas dadhich
 chinmay kadam
 =======
->>>>>>> parent of b74c3ba... adding names
+
+ 
